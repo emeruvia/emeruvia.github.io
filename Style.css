@@ -15,9 +15,13 @@ h2 {
 html, body {
 	height: 100%;
 }
-img.resize{
-	width: 30px;
-	height: 30px;
+.resize{
+	width: 50px;
+	height: 50px;
+}
+.resize.contact{
+	width: 15px;
+	height: 15px;
 }
 .row{
 	padding-left: 10px;
